@@ -1,0 +1,39 @@
+url:
+  dev: http://xxx.xxx
+  stage: https://xxx.xxx
+  test: http://xxx.xxx
+  online: https://xxx.xxx
+mysql:
+  dev:
+    host: xxx.xxx.xxx.xxx
+    port: 3306
+    user: root
+    password: 123456
+    db: mysql_test
+    charset: utf8
+  stage:
+    host: xxx.xxx.xxx.xxx
+    port: 3306
+    user: root
+    password: 123456
+    db: mysql_test
+    charset: utf8
+  test:
+    host: xxx.xxx.xxx.xxx
+    port: 3306
+    user: root
+    password: 123456
+    db: mysql_test
+    charset: utf8
+  online:
+    host: xxx.xxx.xxx.xxx
+    port: 3306
+    user: root
+    password: 123456
+    db: mysql_test
+    charset: utf8
+appid:
+  dev: xxx
+  stage: xxx
+  test: xxx
+  online: xxx

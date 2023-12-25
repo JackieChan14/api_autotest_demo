@@ -1,0 +1,26 @@
+{
+  "env": "dev",
+  "header": {
+    "accept": "application/json, text/plain, */*",
+    "x-auth-token": "",
+    "userid": "",
+    "storeid": "",
+    "enterpriseid": "",
+    "appversion": "",
+    "appplatform": "",
+    "appid": "",
+    "applyclient": "",
+    "terminalcode": "",
+    "businesscode": "",
+    "clientcode": "",
+    "x-label": "",
+    "requesttime": "",
+    "Content-Type": "application/json",
+    "Host": "",
+    "Connection": "Keep-Alive",
+    "Accept-Encoding": "gzip",
+    "Cookie": "ROUTE_PATH=/xxx-api",
+    "User-Agent": "okhttp/4.9.2"
+  },
+  "data": {}
+}

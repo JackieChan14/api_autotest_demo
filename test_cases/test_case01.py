@@ -9,8 +9,8 @@ import allure
 import faker
 import pytest
 
-from api_autotest_demo2 import CommonUtils
-from api_autotest_demo2.api import *
+from api_autotest_demo import CommonUtils
+from api_autotest_demo.api import *
 
 
 @allure.epic('xxx')

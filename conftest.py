@@ -11,7 +11,8 @@ import time
 import pymysql
 import pytest
 from _pytest.terminal import TerminalReporter
-from api_autotest_demo2 import ConfigUtils, log
+
+from api_autotest_demo import ConfigUtils, log
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 cursor = None

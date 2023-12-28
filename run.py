@@ -8,7 +8,8 @@ import os
 import time
 
 import pytest
-from api_autotest_demo2 import log
+
+from api_autotest_demo import log
 
 if __name__ == '__main__':
 	current_file = os.path.dirname(__file__)

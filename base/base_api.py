@@ -6,7 +6,7 @@
 """
 import time
 
-from api_autotest_demo2 import ConfigUtils
+from api_autotest_demo import ConfigUtils
 
 
 class BaseApi:

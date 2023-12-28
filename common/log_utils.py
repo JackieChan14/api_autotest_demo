@@ -12,7 +12,8 @@ from logging import handlers
 from typing import Literal
 
 import colorlog
-from api_autotest_demo2 import CommonUtils
+
+from api_autotest_demo import CommonUtils
 
 
 class LogUtils:

@@ -6,8 +6,8 @@
 """
 import json
 
-from api_autotest_demo2.common.common_utils import CommonUtils
-from api_autotest_demo2.common.yaml_utils import YamlUtils
+from api_autotest_demo.common.common_utils import CommonUtils
+from api_autotest_demo.common.yaml_utils import YamlUtils
 
 
 class ConfigUtils:
